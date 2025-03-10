@@ -1,0 +1,12 @@
+input{
+    display: block;
+}
+
+button{
+    border-style: solid;
+    border-radius: 10px;
+}
+
+body{
+    background-color: darkgrey;
+}
