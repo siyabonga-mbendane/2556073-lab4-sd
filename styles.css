@@ -1,12 +1,17 @@
+
+
 input{
-    display: block;
+    display: inline;
 }
 
 button{
     border-style: solid;
     border-radius: 10px;
+    width: 20%;
 }
 
 body{
     background-color: darkgrey;
+    text-align: center;
 }
+
